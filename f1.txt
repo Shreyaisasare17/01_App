@@ -10,13 +10,16 @@ This is f1 file line 3
 int a = 10;
 int b = 20;
 int c = 30;
+
 String name ='Shreya';
 String clg = 'jintu';
 
-int x = 30;
-=======
-boolean b = false;
-byte bb = 10;
 
 int i = 45;
 int j = 23;
+
+//JIRA-121
+public void m1()
+{
+//Logic
+}
