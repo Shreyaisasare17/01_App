@@ -12,8 +12,8 @@ int b = 20;
 int c = 30;
 String name ='Shreya';
 String clg = 'jintu';
-<<<<<<< HEAD
+
 int x = 30;
 =======
 boolean b = false;
->>>>>>> f1f4a0a03ac82cb91c81aefb1c7a4352d6e4fc54
+byte bb= 10;
